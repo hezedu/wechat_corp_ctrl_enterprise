@@ -1,0 +1,27 @@
+{
+  "name": "wechat_corp_ctrl_enterprise",
+  "version": "0.0.1",
+  "main": "wechat_corp_ctrl_enterprise",
+  "keywords": [
+    "wechat",
+    "enterprise",
+	"corp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hezedu/wechat_corp_ctrl_enterprise.git"
+  },
+
+  "author": {
+    "name": "hezedu"
+  },
+  "dependencies": {
+    "wechat-enterprise-api": "https://github.com/node-webot/wechat-enterprise-api/tarball/f96840bf9ec3d5da6baf4beef5fa74aec27c062d"
+  },
+  "licenses": "MIT",
+  "email": "hezedu@hotmail.com",
+  "description": "wechat_corp_ctrl_enterprise",
+  "bugs": {
+    "url": "https://github.com/hezedu/wechat_corp_ctrl_enterprise/issues"
+  }
+}
