@@ -4,6 +4,7 @@
 `npm install wechat_corp_ctrl_enterprise`
 ## 注意
 依赖是使用的`wechat-enterprise-api`fork临时版本：
+
 https://github.com/node-webot/wechat-enterprise-api/tarball/f96840bf9ec3d5da6baf4beef5fa74aec27c062d
 
 ## 使用
