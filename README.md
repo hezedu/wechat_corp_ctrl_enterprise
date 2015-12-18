@@ -15,5 +15,7 @@ var access_token =  'wxxxxxxxxxx-dddsfsafsdf--ssss'; //通过永久授权码获�
 var auth_corpid = 'wxxxxxxxxxx';
 
 var Api = ctrlEnterprise(auth_corpid, access_token);
-//然后用法跟操作企业一样： https://github.com/node-webot/wechat-enterprise-api 。
+//然后用法跟操作企业一样.
+//不过我用的是fork版，所有操作app都多了个appid参数，详见：
+//https://github.com/node-webot/wechat-enterprise-api/tarball/f96840bf9ec3d5da6baf4beef5fa74aec27c062d
 ```
