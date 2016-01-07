@@ -16,7 +16,7 @@
     "name": "hezedu"
   },
   "dependencies": {
-    "wechat-enterprise-api": "https://github.com/node-webot/wechat-enterprise-api/tarball/27d5e1b12508b9be01db10cd7f82e44873bcfa6d"
+    "wechat-enterprise-api": "https://github.com/hezedu/wechat-enterprise-api/tarball/27d5e1b12508b9be01db10cd7f82e44873bcfa6d"
   },
   "licenses": "MIT",
   "email": "hezedu@hotmail.com",
